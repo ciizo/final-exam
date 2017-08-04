@@ -13,8 +13,14 @@ public class Exam01Test {
     }
 
     @Test
-    public void inputIs9() {
+    public void inputIs10() {
         long actualResult = exam01.findInteger(10);
         assertEquals(9, actualResult);
+    }
+
+    @Test
+    public void inputIs20() {
+        long actualResult = exam01.findInteger(20);
+        assertEquals(19, actualResult);
     }
 }
