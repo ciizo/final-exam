@@ -7,8 +7,14 @@ public class Exam01Test {
     Exam01 exam01 = new Exam01();
 
     @Test
-    public void start_game_should_love_all() {
+    public void inputIs8() {
         long actualResult = exam01.findInteger(8);
         assertEquals(8, actualResult);
+    }
+
+    @Test
+    public void inputIs9() {
+        long actualResult = exam01.findInteger(10);
+        assertEquals(9, actualResult);
     }
 }
