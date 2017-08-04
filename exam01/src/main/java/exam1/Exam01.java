@@ -9,7 +9,7 @@ public class Exam01 {
         String allNumber=String.valueOf(number);
         if (number>9){
 
-            for(int i=0;i<allNumber.length();i++ ){
+            for(int i=0;i<allNumber.length()-1;i++ ){
                 String allDigit=String.valueOf(number);
                 if (Character.getNumericValue(allDigit.charAt(i))<=Character.getNumericValue(allDigit.charAt(i+1))){
                     continue;
@@ -18,7 +18,7 @@ public class Exam01 {
                     number--;
                     i=0;
                 }
-                return number;
+
             }
         }
         return number;

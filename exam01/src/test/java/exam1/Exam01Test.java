@@ -23,4 +23,10 @@ public class Exam01Test {
         long actualResult = exam01.findInteger(20);
         assertEquals(19, actualResult);
     }
+
+    @Test
+    public void inputIs132() {
+        long actualResult = exam01.findInteger(132);
+        assertEquals(129, actualResult);
+    }
 }
