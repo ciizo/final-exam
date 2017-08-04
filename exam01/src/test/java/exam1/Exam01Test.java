@@ -49,4 +49,10 @@ public class Exam01Test {
         assertEquals(899999999999999999L, actualResult);
     }
 
+    @Test
+    public void inputIsTooMany3() {
+        long actualResult = exam01.findNumber(653161544328834085L);
+        assertEquals(599999999999999999L, actualResult);
+    }
+
 }
