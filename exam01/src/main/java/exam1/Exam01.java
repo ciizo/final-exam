@@ -2,10 +2,6 @@ package exam1;
 
 import sun.management.counter.LongArrayCounter;
 
-import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class Exam01 {
 
@@ -22,7 +18,12 @@ public class Exam01 {
                     continue;
                 }
                 else {
-                    number--;
+                    allDigit=allDigit.substring(0,i+1);
+                    for(int j=i;j<count;j++){
+                        allDigit=allDigit.concat("9");
+                    }
+                    number = Long.parseLong(allDigit);
+                    number = number - (long)(Math.pow(10,(count-i)));
                     i=-1;
                     allNumber=String.valueOf(number);
                     count = allNumber.length()-1;

@@ -32,8 +32,21 @@ public class Exam01Test {
     }
 
     @Test
+    public void inputIsTooManyx() {
+        long actualResult = exam01.findNumber(1110L);
+        assertEquals(999L, actualResult);
+    }
+
+    @Test
     public void inputIsTooMany1() {
         long actualResult = exam01.findNumber(111111111111111110L);
         assertEquals(99999999999999999L, actualResult);
    }
+
+    @Test
+    public void inputIsTooMany2() {
+        long actualResult = exam01.findNumber(989999999999999999L);
+        assertEquals(899999999999999999L, actualResult);
+    }
+
 }

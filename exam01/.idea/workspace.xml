@@ -16,21 +16,9 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="216">
               <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exam01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exam1/Exam01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -38,11 +26,21 @@
       <file leaf-file-name="Exam01Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/exam1/Exam01Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="184">
+              <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exam01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exam1/Exam01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-226">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -171,8 +169,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exam01Test">
-    <configuration name="Exam01Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Exam01Test.inputIsTooMany2">
+    <configuration name="Exam01Test.inputIs132" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="exam1.*" />
@@ -184,8 +182,108 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="exam1" />
       <option name="MAIN_CLASS_NAME" value="exam1.Exam01Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="inputIs132" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Exam01Test.inputIs20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exam1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="exam01" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="exam1" />
+      <option name="MAIN_CLASS_NAME" value="exam1.Exam01Test" />
+      <option name="METHOD_NAME" value="inputIs20" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Exam01Test.inputIsTooMany1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exam1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="exam01" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="exam1" />
+      <option name="MAIN_CLASS_NAME" value="exam1.Exam01Test" />
+      <option name="METHOD_NAME" value="inputIsTooMany1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Exam01Test.inputIsTooMany2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exam1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="exam01" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="exam1" />
+      <option name="MAIN_CLASS_NAME" value="exam1.Exam01Test" />
+      <option name="METHOD_NAME" value="inputIsTooMany2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Exam01Test.inputIsTooMany3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exam1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="exam01" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="exam1" />
+      <option name="MAIN_CLASS_NAME" value="exam1.Exam01Test" />
+      <option name="METHOD_NAME" value="inputIsTooMany3" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -278,9 +376,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIs132" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIsTooMany3" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIsTooMany1" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIsTooMany2" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIs20" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Exam01Test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIsTooMany2" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIsTooMany3" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIs20" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIs132" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Exam01Test.inputIsTooMany1" />
       </list>
     </recent_temporary>
   </component>
@@ -298,35 +407,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exam01Test - 2017.08.04 at 15h 46m 49s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIs132 - 2017.08.04 at 17h 43m 23s.xml">
+      <configuration name="Exam01Test.inputIs132" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 19m 36s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIs20 - 2017.08.04 at 17h 43m 25s.xml">
+      <configuration name="Exam01Test.inputIs20" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 22m 29s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIs20 - 2017.08.04 at 17h 44m 02s.xml">
+      <configuration name="Exam01Test.inputIs20" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 22m 48s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIsTooMany1 - 2017.08.04 at 17h 43m 19s.xml">
+      <configuration name="Exam01Test.inputIsTooMany1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 35m 47s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIsTooMany2 - 2017.08.04 at 17h 43m 16s.xml">
+      <configuration name="Exam01Test.inputIsTooMany2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 37m 04s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIsTooMany2 - 2017.08.04 at 17h 44m 19s.xml">
+      <configuration name="Exam01Test.inputIsTooMany2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 40m 43s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIsTooMany2 - 2017.08.04 at 17h 44m 38s.xml">
+      <configuration name="Exam01Test.inputIsTooMany2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 42m 17s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIsTooMany2 - 2017.08.04 at 17h 44m 55s.xml">
+      <configuration name="Exam01Test.inputIsTooMany2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 43m 17s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIsTooMany3 - 2017.08.04 at 17h 43m 12s.xml">
+      <configuration name="Exam01Test.inputIsTooMany3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exam01Test - 2017.08.04 at 16h 44m 00s.xml">
-      <configuration name="Exam01Test" configurationId="JUnit" />
+    <history-entry file="Exam01Test_inputIsTooMany3 - 2017.08.04 at 17h 44m 16s.xml">
+      <configuration name="Exam01Test.inputIsTooMany3" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -335,13 +444,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.3455344" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.25789472" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3615917" sideWeight="0.56090224" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3615917" sideWeight="0.6631579" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3615917" sideWeight="0.43909773" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3615917" sideWeight="0.33684212" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -365,13 +474,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/exam1/Exam01Test.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="216">
           <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding />
         </state>
@@ -395,18 +514,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exam1/Exam01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-226">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exam1/Exam01Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="184">
+          <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
