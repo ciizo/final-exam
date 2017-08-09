@@ -1,6 +1,8 @@
 package exam1;
+
 import org.junit.Ignore;
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 
 public class Exam01Test {
@@ -32,16 +34,10 @@ public class Exam01Test {
     }
 
     @Test
-    public void inputIsTooManyx() {
-        long actualResult = exam01.findNumber(1110L);
-        assertEquals(999L, actualResult);
-    }
-
-    @Test
     public void inputIsTooMany1() {
         long actualResult = exam01.findNumber(111111111111111110L);
         assertEquals(99999999999999999L, actualResult);
-   }
+    }
 
     @Test
     public void inputIsTooMany2() {
@@ -54,5 +50,4 @@ public class Exam01Test {
         long actualResult = exam01.findNumber(653161544328834085L);
         assertEquals(599999999999999999L, actualResult);
     }
-
 }
